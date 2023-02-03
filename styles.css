@@ -17,6 +17,9 @@ body {
 .bb1 {
   height: 70%;
   width: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .bb1a {
