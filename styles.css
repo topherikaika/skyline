@@ -55,8 +55,7 @@ body {
 
 .bb1b {
   width: 80%;
-  background: linear-gradient(orange,
-      var(--building-color1) 80%,
+  background: linear-gradient(var(--building-color1) 50%,
       var(--window-color1));
 }
 
