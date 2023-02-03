@@ -8,7 +8,7 @@
   --building-color4: #538cc6;
   background-color: var(--building-color4);
   --window-color1: black;
-
+  --window-color2: #8cd9b3;
 }
 
 * {
