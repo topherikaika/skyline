@@ -41,6 +41,12 @@ body {
   align-items: center;
 }
 
+.window-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
 .bb1 {
   height: 70%;
   width: 10%;
