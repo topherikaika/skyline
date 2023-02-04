@@ -40,6 +40,14 @@ body {
   align-items: center;
 }
 
+.sky {
+  background: radial-gradient(#ffcf33 0%,
+      #ffcf33 0%,
+      #ffcf33 20%,
+      #ffff66 21%,
+      #bbeeff 100%);
+}
+
 .window-wrap {
   display: flex;
   align-items: center;
