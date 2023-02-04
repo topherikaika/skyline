@@ -285,6 +285,17 @@ body {
 }
 
 @media (max-width: 1000px) {
+  :root {
+
+    --building-color1: #000;
+    background-color: var(--building-color1);
+    --building-color2: #000;
+    background-color: var(--building-color2);
+    --building-color3: #000;
+    background-color: var(--building-color3);
+    --building-color4: #000;
+  }
+
   .sky {
     background: radial-gradient(circle closest-corner at 15% 15%,
         #ccc 0%,
