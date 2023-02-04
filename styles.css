@@ -237,6 +237,8 @@ body {
   border-radius: 50%;
   background-color: var(--window-color1);
   margin: 10%;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .fb5 {
